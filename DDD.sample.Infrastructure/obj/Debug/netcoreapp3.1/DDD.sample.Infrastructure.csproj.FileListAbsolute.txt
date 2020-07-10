@@ -1,0 +1,9 @@
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\bin\Debug\netcoreapp3.1\DDD.sample.Infrastructure.deps.json
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\bin\Debug\netcoreapp3.1\DDD.sample.Infrastructure.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\bin\Debug\netcoreapp3.1\DDD.sample.Infrastructure.pdb
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.csprojAssemblyReference.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.csproj.CoreCompileInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.AssemblyInfoInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.AssemblyInfo.cs
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.Infrastructure\obj\Debug\netcoreapp3.1\DDD.sample.Infrastructure.pdb

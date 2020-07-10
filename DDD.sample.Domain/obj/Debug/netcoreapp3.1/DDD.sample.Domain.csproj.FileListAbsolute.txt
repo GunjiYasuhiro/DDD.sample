@@ -1,0 +1,9 @@
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\bin\Debug\netcoreapp3.1\DDD.sample.Domain.deps.json
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\bin\Debug\netcoreapp3.1\DDD.sample.Domain.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\bin\Debug\netcoreapp3.1\DDD.sample.Domain.pdb
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.csprojAssemblyReference.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.csproj.CoreCompileInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.AssemblyInfoInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.AssemblyInfo.cs
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.Domain\obj\Debug\netcoreapp3.1\DDD.sample.Domain.pdb

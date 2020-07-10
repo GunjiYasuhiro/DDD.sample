@@ -1,0 +1,14 @@
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\DDD.sample.WebApp.exe
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.csprojAssemblyReference.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.AssemblyInfoInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.AssemblyInfo.cs
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.RazorTargetAssemblyInfo.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\DDD.sample.WebApp.StaticWebAssets.Manifest.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\DDD.sample.WebApp.StaticWebAssets.xml
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\DDD.sample.Domain.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\bin\Debug\netcoreapp3.1\DDD.sample.Infrastructure.dll
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.csproj.CoreCompileInputs.cache
+D:\study\lang\DotNetCore\IAS\DDD.sample.WebApp\obj\Debug\netcoreapp3.1\DDD.sample.WebApp.MvcApplicationPartsAssemblyInfo.cache
